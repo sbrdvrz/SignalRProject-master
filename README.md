@@ -1,4 +1,4 @@
-<h1>I developed an E-Commerce website using Asp.Net Core 5 MVC.</h1>
+<h1>I developed an online restaurant website using Asp.Net Core 6 MVC.</h1>
 <p>I have developed a comprehensive real-time application with admin and showcase panels using Asp Net Core 6.0, in which I utilize the SignalR library.</p>
 </br>
 <p>The technologies we generally use in the course are as follows.</p>
